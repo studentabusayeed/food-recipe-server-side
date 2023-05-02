@@ -1,38 +1,44 @@
 [
     {
-        "image": "/image/chef1.jpg",
+        "image": "https://img.freepik.com/premium-photo/happy-male-chef-dressed-uniform-holding-wooden-spoon_156779-545.jpg?w=740",
         "name": "John Smith",
         "yearsOfExperience": 10,
-        "numRecipes": 50
+        "numRecipes": 50,
+        "id":1
     },
     {
-        "image": "/image/chef2.jpg",
+        "image": "https://img.freepik.com/free-photo/portrait-chef-presenting-copyspace_23-2148006366.jpg?w=740&t=st=1683041390~exp=1683041990~hmac=f7e6be68a56330fd896f34f0d4e65e561ce8e4e6d4a80a461c69f1af639538cf",
         "name": "Jane Doe",
         "yearsOfExperience": 5,
-        "numRecipes": 30
+        "numRecipes": 30,
+        "id":2
     },
     {
-        "image": "/image/chef3.jpg",
+        "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?w=740&t=st=1683040841~exp=1683041441~hmac=9f6f1d0df8c80c47ac23ef8042444556690198090ac3a1c4c614c1eeb5084043",
         "name": "David Lee",
         "yearsOfExperience": 15,
-        "numRecipes": 80
+        "numRecipes": 80,
+        "id":3
     },
     {
-        "image": "/image/chef4.jpg",
+        "image": "https://img.freepik.com/free-photo/chef-kitchen-making-dough_23-2148006234.jpg?w=740&t=st=1683041426~exp=1683042026~hmac=464c62e86a3b10adc2856d23858af8cf2c115f59dee0dc6c4c494cc049ad0f18",
         "name": "Sarah Lee",
         "yearsOfExperience": 8,
-        "numRecipes": 40
+        "numRecipes": 40,
+        "id":4
     },
     {
-        "image": "/image/chef5.jpg",
+        "image": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?w=740&t=st=1683041119~exp=1683041719~hmac=bd9a6cc41566d24bfb93653894b9fc6e964997ef0d6f31c4872c3545f9613935",
         "name": "Michael Johnson",
         "yearsOfExperience": 20,
-        "numRecipes": 120
+        "numRecipes": 120,
+        "id":5
     },
     {
-        "image": "/image/chef6.jpg",
+        "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683040739~exp=1683041339~hmac=3eeef7921a1742f9b17ea5b79b334c020cfb64f93489d2c84dcc8b6abfdf5ee4",
         "name": "Emma Brown",
         "yearsOfExperience": 3,
-        "numRecipes": 20
+        "numRecipes": 20,
+        "id":6
     }
 ]
