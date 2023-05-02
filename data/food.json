@@ -1,0 +1,38 @@
+[
+    {
+        "image": "/image/chef1.jpg",
+        "name": "John Smith",
+        "yearsOfExperience": 10,
+        "numRecipes": 50
+    },
+    {
+        "image": "/image/chef2.jpg",
+        "name": "Jane Doe",
+        "yearsOfExperience": 5,
+        "numRecipes": 30
+    },
+    {
+        "image": "/image/chef3.jpg",
+        "name": "David Lee",
+        "yearsOfExperience": 15,
+        "numRecipes": 80
+    },
+    {
+        "image": "/image/chef4.jpg",
+        "name": "Sarah Lee",
+        "yearsOfExperience": 8,
+        "numRecipes": 40
+    },
+    {
+        "image": "/image/chef5.jpg",
+        "name": "Michael Johnson",
+        "yearsOfExperience": 20,
+        "numRecipes": 120
+    },
+    {
+        "image": "/image/chef6.jpg",
+        "name": "Emma Brown",
+        "yearsOfExperience": 3,
+        "numRecipes": 20
+    }
+]
