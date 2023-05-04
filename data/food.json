@@ -4,41 +4,130 @@
         "name": "John Smith",
         "yearsOfExperience": 10,
         "numRecipes": 50,
-        "id":1
+        "id":"1",
+        "Likes": 20,
+        "img1": "https://i.ibb.co/CPgKqrg/haleem.jpg",
+        "img2": "https://i.ibb.co/fGzRYcx/jolojog-shobji-mix-veg.jpg",
+        "img3": "https://i.ibb.co/NskW8H3/khasir-mangsho-alu-diye-mutton-curry.jpg",
+        "name1": "Haleem",
+        "name2": "Special Mix Veg Recipe",
+        "name3": "Mutton Curry with Potatoes",
+        "ingredients": [
+            {"0": "Black mustard seeds: 4 tbsp"},
+            {"1": "White mustard seeds: 4 tbsp"},
+            {"2": "Poppy seed: 4 tbsp"},
+            {"3": "Coconut, freshly grated: ½ cup"},
+            {"4": "4 piece, without egg"}
+        ],
+        "rating": "4.5"
+
     },
     {
         "image": "https://img.freepik.com/free-photo/portrait-chef-presenting-copyspace_23-2148006366.jpg?w=740&t=st=1683041390~exp=1683041990~hmac=f7e6be68a56330fd896f34f0d4e65e561ce8e4e6d4a80a461c69f1af639538cf",
         "name": "Jane Doe",
         "yearsOfExperience": 5,
         "numRecipes": 30,
-        "id":2
+        "id":"2",
+        "Likes": 40,
+        "img1": "https://i.ibb.co/LJZnkkT/dal-puri-poori.webp",
+        "img2": "https://i.ibb.co/XzFknx2/homely-ghoroa-biryani.webp",
+        "img3": "https://i.ibb.co/dPFzPft/bangladeshi-jorda-zarda-recipe.webp",
+        "name1": "Dal Puri Recipe",
+        "name2": " Homemade Biryani Recipe",
+        "name3": "Jhorjhore Jorda Recipe",
+        "ingredients": [
+            {"0": "Black mustard seeds: 4 tbsp"},
+            {"1": "White mustard seeds: 4 tbsp"},
+            {"2": "Poppy seed: 4 tbsp"},
+            {"3": "Coconut, freshly grated: ½ cup"},
+            {"4": "4 piece, without egg"}
+        ],
+        "rating": "3.5"
     },
     {
         "image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?w=740&t=st=1683040841~exp=1683041441~hmac=9f6f1d0df8c80c47ac23ef8042444556690198090ac3a1c4c614c1eeb5084043",
         "name": "David Lee",
         "yearsOfExperience": 15,
         "numRecipes": 80,
-        "id":3
+        "id":"3",
+        "Likes": 50,
+        "img1": "https://i.ibb.co/wsyHwP4/ilish-pulao.webp",
+        "img2": "https://i.ibb.co/kmN05Cc/Begun-Diye-Ilish-Machher-Jhol-Hilsha-Cooked-with-Egg-Plant.jpg",
+        "img3": "https://i.ibb.co/4gxgYhg/259951-d3f02a77d31941e8919a4bd1bc92e970.jpg",
+        "name1": "Hilsa Pilaf Rice Recipe",
+        "name2": "Begun Diye Ilish Machher Jhol",
+        "name3": "Pabda macher jaal",
+        "ingredients": [
+            {"0": "Black mustard seeds: 4 tbsp"},
+            {"1": "White mustard seeds: 4 tbsp"},
+            {"2": "Poppy seed: 4 tbsp"},
+            {"3": "Coconut, freshly grated: ½ cup"},
+            {"4": "4 piece, without egg"}
+        ],
+        "rating": "4"
     },
     {
         "image": "https://img.freepik.com/free-photo/chef-kitchen-making-dough_23-2148006234.jpg?w=740&t=st=1683041426~exp=1683042026~hmac=464c62e86a3b10adc2856d23858af8cf2c115f59dee0dc6c4c494cc049ad0f18",
         "name": "Sarah Lee",
         "yearsOfExperience": 8,
         "numRecipes": 40,
-        "id":4
+        "id":"4",
+        "Likes": 60,
+        "img1": "https://i.ibb.co/SwxnxZr/1d3a176a0789563340f384ca9b237e03.jpg",
+        "img2": "https://i.ibb.co/7zNNr3S/kachchi-biryani-bangladeshi-food-600-o.jpg",
+        "img3": "https://i.ibb.co/Bq3XZW1/bhuna-khichuri-bangladeshi-food-600-o.jpg",
+        "name1": "Chital Fish",
+        "name2": "Kachchi Biryani",
+        "name3": "Bhuna Khichrui",
+        "ingredients": [
+            {"0": "Black mustard seeds: 4 tbsp"},
+            {"1": "White mustard seeds: 4 tbsp"},
+            {"2": "Poppy seed: 4 tbsp"},
+            {"3": "Coconut, freshly grated: ½ cup"},
+            {"4": "4 piece, without egg"}
+        ],
+        "rating": "5"
     },
     {
         "image": "https://img.freepik.com/free-photo/satisfied-professional-male-chef-cook-white-uniform-cook-hat-standing-with-arms-crossed-looking-confident-green-background_141793-20656.jpg?w=740&t=st=1683041119~exp=1683041719~hmac=bd9a6cc41566d24bfb93653894b9fc6e964997ef0d6f31c4872c3545f9613935",
         "name": "Michael Johnson",
         "yearsOfExperience": 20,
         "numRecipes": 120,
-        "id":5
+        "id":"5",
+        "Likes": 70,
+        "img1": "https://i.ibb.co/tzSkgkm/Chingri-malai-curry-768x475-jpg.webp",
+        "img2": "https://i.ibb.co/j8K1VnM/Dal-768x511-jpg.webp",
+        "img3": "https://i.ibb.co/qR5zWCH/Panta-bhat-768x576-jpg.webp",
+        "name1": "Chingri Malai Curry",
+        "name2": "Dhal",
+        "name3": "Panta Bhat",
+        "ingredients": [
+            {"0": "Black mustard seeds: 4 tbsp"},
+            {"1": "White mustard seeds: 4 tbsp"},
+            {"2": "Poppy seed: 4 tbsp"},
+            {"3": "Coconut, freshly grated: ½ cup"},
+            {"4": "4 piece, without egg"}
+        ],
+        "rating": "3.5"
     },
     {
         "image": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1683040739~exp=1683041339~hmac=3eeef7921a1742f9b17ea5b79b334c020cfb64f93489d2c84dcc8b6abfdf5ee4",
         "name": "Emma Brown",
         "yearsOfExperience": 3,
         "numRecipes": 20,
-        "id":6
+        "id":"6",
+        "Likes": 80,
+        "img1": "https://i.ibb.co/26kNwNz/Paratha-768x512-jpg.webp",
+        "img2": "https://i.ibb.co/RvmdhtW/Shami-kabab-768x461-jpg.webp",
+        "img3": "https://i.ibb.co/Px9YRCG/Chorchori-768x474-jpg.webp",
+        
+        "ingredients": [
+            {"0": "Black mustard seeds: 4 tbsp"},
+            {"1": "White mustard seeds: 4 tbsp"},
+            {"2": "Poppy seed: 4 tbsp"},
+            {"3": "Coconut, freshly grated: ½ cup"},
+            {"4": "4 piece, without egg"}
+        ],
+        "rating": "5"
     }
 ]
